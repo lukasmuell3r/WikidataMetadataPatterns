@@ -1,6 +1,6 @@
 
 # Analyzing the Use of Metadata in the Wikidata Data Model
-This repository contains the analysis data and source code used for my bachelor thesis "Analyzing the Use of Metadata in the Wikidata Date Model".
+This repository contains the analysis data and source code used for my bachelor thesis "Analyzing the Use of Metadata in the Wikidata Data Model".
 
 ## Source code
 With the Python scripts contained in the `source code` directory, it is possible to perform the complete analysis. There is a separate `README` file in this folder to briefly explain the process and the scripts.
